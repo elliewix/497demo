@@ -6,4 +6,7 @@ just play with github in a demo
 ## Fav github jokes
 
 * GitHub vs Guitar Hero, "messed up git so bad I made guitar hero"
-* idk it's just rough
+
+## General thoughts
+
+* oof
