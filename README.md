@@ -5,4 +5,4 @@ just play with github in a demo
 
 ## Fav github jokes
 
-* git vs guitar hero
+* GitHub vs Guitar Hero, "messed up git so bad I made guitar hero"
