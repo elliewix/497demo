@@ -43,6 +43,9 @@ Aoeuthda
 
 ## Author info
 
+* Name: Elizabeth Wickes
+* Date of project: Spring 2022
+
 ## Project description
 
 ## Data information
